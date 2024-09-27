@@ -1,5 +1,5 @@
 # tinyRenderer
-resource are from https://github.com/ssloy/tinyrenderer
+resources are from https://github.com/ssloy/tinyrenderer
 
 mixed with opengl rastizer standard
 
